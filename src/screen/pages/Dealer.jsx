@@ -33,7 +33,6 @@ function Dealer() {
         Dealer_ID: data[i].Dealer_ID,
         DOB: data[i].DOB,
         Address: data[i].Address,
-        Nationality: data[i].Nationality,
         Aadhar_No: data[i].Aadhar_No,
         Aadhar_Img:data[i].Aadhar_Photo,
         PAN_No: data[i].PAN_No,

@@ -1,11 +1,11 @@
 import React, { useState } from 'react';
  
  
-const containerStyle = {
-  fontFamily: 'Arial, sans-serif',
-  margin: '20px',
-  margin: '0 auto'
-};
+// const containerStyle = {
+//   fontFamily: 'Arial, sans-serif',
+//   margin: '20px',
+//   margin: '0 auto'
+// };
  
 const listStyle = {
   listStyleType: 'none',
